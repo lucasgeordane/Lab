@@ -5499,7 +5499,7 @@ You will not be able to call this action from a business process, nor will it be
     <step>
       <element id="e30f4490-caed-4580-b7be-a21150d536b8" />
       <action>
-        <id>WebClick</id>
+        <id>Web --Click</id>
       </action>
     </step>
   </stage>
